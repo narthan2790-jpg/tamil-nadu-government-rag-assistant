@@ -1,0 +1,10 @@
+openai
+neo4j
+python-dotenv
+langchain
+langchain-openai
+langchain-neo4j
+requests
+beautifulsoup4
+pypdf
+streamlit
